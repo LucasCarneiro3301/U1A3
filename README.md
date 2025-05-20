@@ -16,7 +16,7 @@ __Para este trabalho, os seguintes componentes e ferramentas se fazem necessári
 8) Matriz de LEDs 5x5.
 9) FreeRTOS
 
-__O resultado do projeto pode ser assistido através deste link: [Vídeo de Apresentação - Estação de Alerta de Enchentes Inteligente.]().__
+__O resultado do projeto pode ser assistido através deste link: [Vídeo de Apresentação - Estação de Alerta de Enchentes Inteligente](https://youtu.be/rIkyXRGFPso).__
 
 ## Instruções de Uso
 
